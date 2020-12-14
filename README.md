@@ -7,4 +7,4 @@
 <ul>
   <li>Given an existing schema, add a ratings table in order to allow customers using a campus food delivery systems to privide drivers and resturants with ratings.</li>
 </ul>
-<!-- <a href = "im"> -->
+<a href = "/SQL%20Dump/query1.PNG">
