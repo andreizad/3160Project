@@ -67,7 +67,8 @@
   <li><h3>Tables and Test Data</h3>
     <ul id="slider">
       <li><img src="Deliverable-3/Tables-And-Test-Data/All-Driver-Ratings.PNG"></li>
+      <li><img src="Deliverable-3/Tables-And-Test-Data/Tables-And-Test-Data"></li> 
     </ul>  
   </li>
- </ul>
+</ul>
 <img src = "/SQL%20Dump/query1.PNG"/>
