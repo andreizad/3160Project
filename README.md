@@ -13,7 +13,7 @@
     <ul>
       <li>
         <p>
-          For this project we are given a Campus Eats model. We need to thoroughly review the model and DB to understand it. Once a firm understanding of the provided model is achieved, we need to start thinking on how to implement a rating system. We need customers to have the ability to rate restaurants and drivers. A customer should have the ability to rate ONLY the following: The restaurant that they ordered food from and the driver that delivered the food. Customers are NOT required to rate the driver or food, it is optional. Once a rating is submitted it will become public data, meaning anyone will have access to view it. System admins should have the ability to filter, edit, and delete ratings. 
+          For this project we are given a Campus Eats model. We need to thoroughly review the model and DB to understand it. Once the model is reviewed, we need to start thinking           on how to implement a rating system. Customers need to have the ability to rate restaurants and drivers. A customer should have the ability to rate ONLY the following:             The restaurant that they ordered food from and the driver that delivered the food. Customers are NOT required to rate the driver or food, it is optional. Once a rating             is submitted it will become public data, meaning anyone will have access to view it. System admins should have the ability to filter, edit, and delete ratings.
         </p>
       </li>
     </ul>  
