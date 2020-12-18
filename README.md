@@ -46,11 +46,6 @@
     </ul>
   </li>
 </ul>
-
-
-
-
-
 <h2><a href="/Deliverable-3">Deliverable 3</a></h2>
 <ul>
   <li><h3><a href="/Deliverable-3/Tables-And-Test-Data">Tables and Test Data</a></h3></li>
@@ -72,21 +67,17 @@
   <li><h3>SQL Queries<h3/>
     <ul>
       <li>
-        <img src = "/Deliverable-3/Queries/All-Ratings-Driver.PNG"/>
+        <img src = "/Deliverable-3/Queries/All-Ratings-Driver.PNG"/><br><br>
       </li><br>
       <li>
-        <img src = "/Deliverable-3/Queries/All-Ratings-Restaurant.PNG"/>
+        <img src = "/Deliverable-3/Queries/All-Ratings-Restaurant.PNG"/><br><br>
       </li><br>
       <li>
-        <img src = "/Deliverable-3/Queries/All-Ratings.PNG"/>
+        <img src = "/Deliverable-3/Queries/All-Ratings.PNG"/><br><br>
       </li>
     </ul>
   </li> 
 </ul>
-
-
-
-
 
 <h2><a href="/Deliverable-4">Deliverable 3</a></h2>
 <ul>
@@ -94,29 +85,29 @@
   <li><h3>Complex Queries<h3/>
     <ul>
       <li>
-        <img src = "/Deliverable-4/queries/ComplexQuery-All-Drivers-With-AVGRatings.PNG"/><br>
+        <img src = "/Deliverable-4/queries/ComplexQuery-All-Drivers-With-AVGRatings.PNG"/><br><br>
       </li>
       <li>
-        <img src = "/Deliverable-4/queries/All-Ratings-RestaurantAndDriver.PNG"/><br>
+        <img src = "/Deliverable-4/queries/All-Ratings-RestaurantAndDriver.PNG"/><br><br>
       </li>
       <li>
         <img src = "/Deliverable-4/queries/ComplexQuery-AllRecipts.PNG"/>
       </li>
     </ul>
   </li>
-  <li><h3><a href="">Stored Procedures<h3/>
+  <li><h3>Stored Procedures<h3/>
     <ul>
       <li>
-        <img src = "/Deliverable-4/procedures/All_Ratings_for_Particular_Restaurant.PNG"/><br>
+        <img src = "/Deliverable-4/procedures/All_Ratings_for_Particular_Restaurant.PNG"/><br><br>
       </li>
       <li>
-        <img src = "/Deliverable-4/procedures/Rating_For_Particular_Driver.PNG"/><br>
+        <img src = "/Deliverable-4/procedures/Rating_For_Particular_Driver.PNG"/><br><br>
       </li>
       <li>
-        <img src = "/Deliverable-4/procedures/Ratings_For_All_Drivers.PNG"/><br>
+        <img src = "/Deliverable-4/procedures/Ratings_For_All_Drivers.PNG"/><br><br>
       </li>
       <li>
-        <img src = "/Deliverable-4/procedures/Ratings_For_All_Restaurants.PNG"/><br>
+        <img src = "/Deliverable-4/procedures/Ratings_For_All_Restaurants.PNG"/><br><br>
       </li>
       <li>
         <img src = "/Deliverable-4/procedures/Recipt_Procedure.PNG"/>
