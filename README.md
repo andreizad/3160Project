@@ -73,10 +73,10 @@
     <ul>
       <li>
         <img src = "/Deliverable-3/Queries/All-Ratings-Driver.PNG"/>
-      </li>
+      </li><br>
       <li>
         <img src = "/Deliverable-3/Queries/All-Ratings-Restaurant.PNG"/>
-      </li>
+      </li><br>
       <li>
         <img src = "/Deliverable-3/Queries/All-Ratings.PNG"/>
       </li>
