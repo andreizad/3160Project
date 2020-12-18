@@ -25,9 +25,26 @@
       </li>
     </ul> 
   </li>
-  <li>Create use case for rating system</li>
-  <li>Create Business Rules for the rating system</li>
-  <li>Provied picture of EERD for the full database(Fully Normalized)</li>
-  <li>Data Dictionary identifying all new tables, primary and foreign keys, attributes, data types and any constraints (ranges for data, etc.)</li>
+  <li>Create Business Rules for the rating system
+    <ul>
+      <li>
+        <img src = "/Deliverable-2/Business-Rules.PNG"/>
+      </li>
+    </ul>
+  </li>
+  <li>Provied picture of EERD for the full database(Fully Normalized)
+    <ul>
+      <li>
+        <img src = "/Deliverable-2/EERD.PNG"/>
+      </li>
+    </ul>
+  </li>
+  <li>Data Dictionary identifying all new tables, primary and foreign keys, attributes, data types and any constraints (ranges for data, etc.)
+    <ul>
+      <li>
+        <img src = "/Deliverable-2/DataDictionary.PNG"/>
+      </li>
+    </ul>
+  </li>
 </ul>
 <img src = "/SQL%20Dump/query1.PNG"/>
