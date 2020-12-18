@@ -7,7 +7,57 @@
 <p>Given an existing schema, add a ratings table in order to allow customers using a campus food delivery systems to privide drivers and resturants with ratings.</p>
 <h2> Deliverable 1</h2>
 <p>Create a github site for the project and a readme with basic information such as group members</p>
-<h2> Deliverable 2</h2>
+
+
+
+
+
+<h2><a href="/Deliverable-2"Deliverable 2</a></h2>
+<ul>
+  <li><h3>Paragraph updating scope of project (introduction, description)</h3>
+    <ul>
+      <li>
+        <p>
+          For this project, we are given a Campus Eats model. We need to thoroughly review the model and DB to understand it. Once the model is reviewed, we need to start thinking about how to implement a rating system. Customers need to have the ability to rate restaurants and drivers. A customer should have the ability to rate ONLY the following: The restaurant that they ordered food from and the driver that delivered the food. Customers are NOT required to rate the driver or food, it is optional. Once a rating is submitted it will become public data, meaning anyone will have access to view it. System admins should have the ability to filter, edit, and delete ratings.
+        </p>
+      </li>
+    </ul>  
+  </li>
+  <li><h3>Create use cases diagram</h3>
+    <ul>  
+      <li>
+        <img src = "/Deliverable-2/Case%20Diagram.PNG"/>
+      </li>
+    </ul> 
+  </li>
+  <li><h3>Create Business Rules for the rating system</h3>
+    <ul>
+      <li>
+        <img src = "/Deliverable-2/Business-Rules.PNG"/>
+      </li>
+    </ul>
+  </li>
+  <li><h3>Provied picture of EERD for the full database(Fully Normalized)</h3>
+    <ul>
+      <li>
+        <img src = "/Deliverable-2/EERD.PNG"/>
+      </li>
+    </ul>
+  </li>
+  <li><h3>Data Dictionary identifying all new tables, primary and foreign keys, attributes, data types and any constraints (ranges for data, etc.)<h3/>
+    <ul>
+      <li>
+        <img src = "/Deliverable-2/DataDictionary.PNG"/>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+
+
+
+
+<h2> Deliverable 3</h2>
 <ul>
   <li><h3>Paragraph updating scope of project (introduction, description)</h3>
     <ul>
