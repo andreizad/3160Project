@@ -9,7 +9,11 @@
 <p>Create a github site for the project and a readme with basic information such as group members</p>
 <h3> Deliverable 2</h3>
 <ul>
-  <li>Paragraph updating scope of project (introduction, description)</li>
+  <li>Paragraph updating scope of project (introduction, description)
+  <ul>
+    <li>Testing how it looks</li>
+  </ul>  
+  </li>
   <li>Create use cases diagram</li>
   <li>Create use case for rating system</li>
   <li>Create Business Rules for the rating system</li>
