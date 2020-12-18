@@ -69,33 +69,5 @@
       <li><img src="Deliverable-3/Tables-And-Test-Data/All-Driver-Ratings.PNG"></li>
     </ul>  
   </li>
-  <li><h3>Create use cases diagram</h3>
-    <ul>  
-      <li>
-        <img src = "/Deliverable-2/Case%20Diagram.PNG"/>
-      </li>
-    </ul> 
-  </li>
-  <li><h3>Create Business Rules for the rating system</h3>
-    <ul>
-      <li>
-        <img src = "/Deliverable-2/Business-Rules.PNG"/>
-      </li>
-    </ul>
-  </li>
-  <li><h3>Provied picture of EERD for the full database(Fully Normalized)</h3>
-    <ul>
-      <li>
-        <img src = "/Deliverable-2/EERD.PNG"/>
-      </li>
-    </ul>
-  </li>
-  <li><h3>Data Dictionary identifying all new tables, primary and foreign keys, attributes, data types and any constraints (ranges for data, etc.)<h3/>
-    <ul>
-      <li>
-        <img src = "/Deliverable-2/DataDictionary.PNG"/>
-      </li>
-    </ul>
-  </li>
-</ul>
+ </ul>
 <img src = "/SQL%20Dump/query1.PNG"/>
