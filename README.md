@@ -21,7 +21,7 @@
   <li>Create use cases diagram
     <ul>  
       <li>
-        <img src = "/Deliverable-2/Case%20Diagram.png"/>
+        <img src = "/Deliverable-2/Case%20Diagram.PNG"/>
       </li>
     </ul> 
   </li>
