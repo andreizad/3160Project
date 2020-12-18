@@ -12,7 +12,7 @@
 
 
 
-<h2><a href="/Deliverable-2"Deliverable 2</a></h2>
+<h2><a href="/Deliverable-2">Deliverable 2</a></h2>
 <ul>
   <li><h3>Paragraph updating scope of project (introduction, description)</h3>
     <ul>
