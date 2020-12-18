@@ -83,3 +83,52 @@
     </ul>
   </li> 
 </ul>
+
+
+
+
+
+<h2><a href="/Deliverable-4">Deliverable 3</a></h2>
+<ul>
+  <li><h3><a href="/Deliverable-4/queries/All-SQL-Queries-and-Procedures.sql">All Queries</a><h3/></li>
+  <li><h3>Complex Queries<h3/>
+    <ul>
+      <li>
+        <img src = "/Deliverable-4/queries/ComplexQuery-All-Drivers-With-AVGRatings.PNG"/><br>
+      </li>
+      <li>
+        <img src = "/Deliverable-4/queries/All-Ratings-RestaurantAndDriver.PNG"/><br>
+      </li>
+      <li>
+        <img src = "/Deliverable-4/queries/ComplexQuery-AllRecipts.PNG"/>
+      </li>
+    </ul>
+  </li>
+  <li><h3><a href="">Stored Procedures<h3/>
+    <ul>
+      <li>
+        <img src = "/Deliverable-4/procedures/All_Ratings_for_Particular_Restaurant.PNG"/><br>
+      </li>
+      <li>
+        <img src = "/Deliverable-4/procedures/Rating_For_Particular_Driver.PNG"/><br>
+      </li>
+      <li>
+        <img src = "/Deliverable-4/procedures/Ratings_For_All_Drivers.PNG"/><br>
+      </li>
+      <li>
+        <img src = "/Deliverable-4/procedures/Ratings_For_All_Restaurants.PNG"/><br>
+      </li>
+      <li>
+        <img src = "/Deliverable-4/procedures/Recipt_Procedure.PNG"/>
+      </li>
+    </ul>
+  </li>
+  <li><h3>Query Optimization<h3/>
+    <ul>
+      <li>
+        <img src = "/Deliverable-4/Query-Performance.PNG"/>
+      </li>
+    </ul>
+  </li>
+  <li><h3><a href="/Deliverable-4/SQL-Dump">SQL Dump Files</a><h3/></li> 
+</ul>
