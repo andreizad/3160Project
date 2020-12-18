@@ -5,11 +5,11 @@
 <p>  Students love food delivery services on campus.  Campuses do not like the steady stream of visitors that may or  may not have a formal connection with the university.  Companies such as UberEats and GrubHub are happy to deliver on campus, but many schools are wondering if they should take control of the delivery and ensure that students and authorized university employees are the only ones delivering food on campus for safety and health reasons. </p>
 <h2> Assignment </h2>
 <p>Given an existing schema, add a ratings table in order to allow customers using a campus food delivery systems to privide drivers and resturants with ratings.</p>
-<h3> Deliverable 1</h3>
+<h2> Deliverable 1</h2>
 <p>Create a github site for the project and a readme with basic information such as group members</p>
-<h3> Deliverable 2</h3>
+<h2> Deliverable 2</h2>
 <ul>
-  <li>Paragraph updating scope of project (introduction, description)
+  <li><h3>Paragraph updating scope of project (introduction, description)</h3>
     <ul>
       <li>
         <p>
@@ -18,28 +18,28 @@
       </li>
     </ul>  
   </li>
-  <li>Create use cases diagram
+  <li><h3>Create use cases diagram</h3>
     <ul>  
       <li>
         <img src = "/Deliverable-2/Case%20Diagram.PNG"/>
       </li>
     </ul> 
   </li>
-  <li>Create Business Rules for the rating system
+  <li><h3>Create Business Rules for the rating system</h3>
     <ul>
       <li>
         <img src = "/Deliverable-2/Business-Rules.PNG"/>
       </li>
     </ul>
   </li>
-  <li>Provied picture of EERD for the full database(Fully Normalized)
+  <li><h3>Provied picture of EERD for the full database(Fully Normalized)</h3>
     <ul>
       <li>
         <img src = "/Deliverable-2/EERD.PNG"/>
       </li>
     </ul>
   </li>
-  <li>Data Dictionary identifying all new tables, primary and foreign keys, attributes, data types and any constraints (ranges for data, etc.)
+  <li><h3>Data Dictionary identifying all new tables, primary and foreign keys, attributes, data types and any constraints (ranges for data, etc.)<h3/>
     <ul>
       <li>
         <img src = "/Deliverable-2/DataDictionary.PNG"/>
