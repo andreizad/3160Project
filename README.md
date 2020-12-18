@@ -31,7 +31,7 @@
       </li>
     </ul>
   </li>
-  <li><h3>Provied picture of EERD for the full database(Fully Normalized)</h3>
+  <li><h3>Provied picture of EERD for the full database(Fully Normalized Final version)</h3>
     <ul>
       <li>
         <img src = "/Deliverable-2/EERD.PNG"/>
@@ -53,13 +53,6 @@
     <ul>
       <li>
         <img src = "/Deliverable-3/Relationships.PNG"/>
-      </li>
-    </ul>
-  </li>
-  <li><h3>EERD<h3/>
-    <ul>
-      <li>
-        <img src = "/Deliverable-3/EERD.PNG"/>
       </li>
     </ul>
   </li>
