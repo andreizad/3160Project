@@ -79,7 +79,7 @@
   </li> 
 </ul>
 
-<h2><a href="/Deliverable-4">Deliverable 3</a></h2>
+<h2><a href="/Deliverable-4">Deliverable 4</a></h2>
 <ul>
   <li><h3><a href="/Deliverable-4/queries/All-SQL-Queries-and-Procedures.sql">All Queries</a><h3/></li>
   <li><h3>Complex Queries<h3/>
